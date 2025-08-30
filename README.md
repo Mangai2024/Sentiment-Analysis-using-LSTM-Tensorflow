@@ -1,4 +1,4 @@
-# Sentiment-Analysis-using-LSTM-Tensorflow
+# Sentiment-Analysis-using-LSTM-Tensorflow(keras)
 
 📌 Project Overview
 
